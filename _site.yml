@@ -1,0 +1,12 @@
+name: "Flat Open Data"
+navbar:
+  title: <img class="datalogo" src="images/open_data_logo.png">
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: flatly
+    css: styles.css

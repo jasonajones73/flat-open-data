@@ -1,0 +1,36 @@
+---
+title: "Flat Open Data"
+
+---
+
+<br>
+
+# Open Data
+
+<br>
+
+> "Open data means data that is available online, in an open format, with no legal encumbrances on use or reuse, and is available for all to access and download in full without fees or a requirement of registration."  
+
+<div class="citation"> 
+Source: https://sunlightfoundation.com/
+</div>
+
+<br>
+
+Open data really doesn't need to be complicated. Check out some of the links below to see what you might be interested in!
+
+<br>
+
+# Public Safety
+
+[EMS Calls For Service, 2012-Present](https://myguilford-my.sharepoint.com/:x:/g/personal/jjones6_guilfordcountync_gov/Ea4dHkLjxTlKgRIbMZ2xmf0Bld_TM3Oy621ZHEOiq-Y71A?e=PvjJ7h&download=1)
+
+<br>
+
+# Website Notes
+
+<br>
+
+For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+
+Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.

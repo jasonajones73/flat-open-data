@@ -1,0 +1,20 @@
+blockquote {
+  font-style: italic
+}
+
+.navbar {
+  background-color:#174C95;
+}
+
+.navbar-brand {
+  padding: 1px 1px;
+}
+
+.datalogo {
+  height: 100%;
+}
+
+.citation {
+  font-size: 70%;
+  text-align: center;
+}
